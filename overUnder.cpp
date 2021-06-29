@@ -33,7 +33,7 @@ int main()
   cout << "Complied: " << __DATE__ << " at " << __TIME__ << endl << endl; 
 
   //user introduction
-  cout << "Objective: You will be prompted to guess a number between 1 and 100. \nAuthor: Ashray. \nI'm thinking of a number from 1 to 100." << endl;
+  cout << "Objective: You will be prompted to guess a number between 1 and 100. \nI'm thinking of a number from 1 to 100." << endl;
   
   //game loop
   while (true)
